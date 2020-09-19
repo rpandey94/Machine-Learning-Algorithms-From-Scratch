@@ -22,6 +22,8 @@
 
 - Mini-Batch Gradient Descent
 
+- Early Stopping
+
 ## Support Vector Machines
 
 - Linear Support Vector Classifier (LinearSVC)
