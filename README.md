@@ -14,6 +14,16 @@
 
 - Softmax Regression
 
+## Gradient Descent
+
+- Normal Gradient Descent
+
+- Stochastic Gradient Descent
+
+- Mini-Batch Gradient Descent
+
+- Early Stopping
+
 ## Support Vector Machines
 
 - Linear Support Vector Classifier (LinearSVC)
