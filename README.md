@@ -35,3 +35,13 @@
 - SVC With RBF Kernel
 
 - Support Vector Regression With Polynomial Kernel
+
+## Decision Trees
+
+- Creating Decision Trees
+
+- Plotting Decision Trees
+
+- Hyperparameter tuining using GridSearchCV
+
+- Creating Decision Tree Forests and taking majority votes
